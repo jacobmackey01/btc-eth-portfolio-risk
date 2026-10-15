@@ -1,0 +1,41 @@
+family,year,chosen
+Calendar rebalance 50/50,2019,Calendar rebalance 50/50 (freq=M)
+Calendar rebalance 50/50,2020,Calendar rebalance 50/50 (freq=M)
+Calendar rebalance 50/50,2021,Calendar rebalance 50/50 (freq=M)
+Calendar rebalance 50/50,2022,Calendar rebalance 50/50 (freq=M)
+Calendar rebalance 50/50,2023,Calendar rebalance 50/50 (freq=M)
+Calendar rebalance 50/50,2024,Calendar rebalance 50/50 (freq=M)
+Calendar rebalance 50/50,2025,Calendar rebalance 50/50 (freq=M)
+Calendar rebalance 50/50,2026,Calendar rebalance 50/50 (freq=M)
+Threshold rebalance 50/50,2019,Threshold rebalance 50/50 (band=0.2)
+Threshold rebalance 50/50,2020,Threshold rebalance 50/50 (band=0.2)
+Threshold rebalance 50/50,2021,Threshold rebalance 50/50 (band=0.2)
+Threshold rebalance 50/50,2022,Threshold rebalance 50/50 (band=0.2)
+Threshold rebalance 50/50,2023,Threshold rebalance 50/50 (band=0.2)
+Threshold rebalance 50/50,2024,Threshold rebalance 50/50 (band=0.2)
+Threshold rebalance 50/50,2025,Threshold rebalance 50/50 (band=0.2)
+Threshold rebalance 50/50,2026,Threshold rebalance 50/50 (band=0.2)
+Inverse volatility,2019,"Inverse volatility (lookback=60, freq=M)"
+Inverse volatility,2020,"Inverse volatility (lookback=60, freq=M)"
+Inverse volatility,2021,"Inverse volatility (lookback=60, freq=M)"
+Inverse volatility,2022,"Inverse volatility (lookback=60, freq=M)"
+Inverse volatility,2023,"Inverse volatility (lookback=60, freq=M)"
+Inverse volatility,2024,"Inverse volatility (lookback=60, freq=M)"
+Inverse volatility,2025,"Inverse volatility (lookback=60, freq=M)"
+Inverse volatility,2026,"Inverse volatility (lookback=60, freq=M)"
+Minimum variance,2019,"Minimum variance (lookback=60, freq=M)"
+Minimum variance,2020,"Minimum variance (lookback=60, freq=M)"
+Minimum variance,2021,"Minimum variance (lookback=60, freq=M)"
+Minimum variance,2022,"Minimum variance (lookback=60, freq=M)"
+Minimum variance,2023,"Minimum variance (lookback=60, freq=M)"
+Minimum variance,2024,"Minimum variance (lookback=60, freq=M)"
+Minimum variance,2025,"Minimum variance (lookback=60, freq=M)"
+Minimum variance,2026,"Minimum variance (lookback=60, freq=M)"
+Volatility target (cash allowed),2019,"Volatility target (cash allowed) (target_vol=0.4, lookback=90, freq=M)"
+Volatility target (cash allowed),2020,"Volatility target (cash allowed) (target_vol=0.4, lookback=90, freq=M)"
+Volatility target (cash allowed),2021,"Volatility target (cash allowed) (target_vol=0.4, lookback=90, freq=M)"
+Volatility target (cash allowed),2022,"Volatility target (cash allowed) (target_vol=0.4, lookback=90, freq=M)"
+Volatility target (cash allowed),2023,"Volatility target (cash allowed) (target_vol=0.4, lookback=90, freq=M)"
+Volatility target (cash allowed),2024,"Volatility target (cash allowed) (target_vol=0.4, lookback=90, freq=M)"
+Volatility target (cash allowed),2025,"Volatility target (cash allowed) (target_vol=0.4, lookback=90, freq=M)"
+Volatility target (cash allowed),2026,"Volatility target (cash allowed) (target_vol=0.4, lookback=90, freq=M)"

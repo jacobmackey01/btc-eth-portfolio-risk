@@ -1,0 +1,6 @@
+family,candidates,spearman_train_vs_test,chosen,chosen_test_rank,best_on_test
+Calendar rebalance 50/50,4,1.0,Calendar rebalance 50/50 (freq=Q),1,Calendar rebalance 50/50 (freq=Q)
+Inverse volatility,12,-0.02097902097902098,"Inverse volatility (lookback=60, freq=M)",9,"Inverse volatility (lookback=180, freq=Q)"
+Minimum variance,12,0.5454545454545455,"Minimum variance (lookback=60, freq=M)",7,"Minimum variance (lookback=90, freq=W)"
+Threshold rebalance 50/50,5,0.6,Threshold rebalance 50/50 (band=0.2),3,Threshold rebalance 50/50 (band=0.1)
+Volatility target (cash allowed),18,-0.869969040247678,"Volatility target (cash allowed) (target_vol=0.8, lookback=60, freq=M)",18,"Volatility target (cash allowed) (target_vol=0.4, lookback=90, freq=W)"

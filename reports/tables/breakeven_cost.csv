@@ -1,0 +1,8 @@
+,breakeven_bps
+Calendar rebalance 50/50 (freq=Q),
+Threshold rebalance 50/50 (band=0.2),
+"Inverse volatility (lookback=60, freq=M)",
+"Minimum variance (lookback=60, freq=M)",237.87630442529917
+"Volatility target (cash allowed) (target_vol=0.8, lookback=60, freq=M)",
+Calendar rebalance 50/50 (freq=M),
+"Volatility target (cash allowed) (target_vol=0.4, lookback=90, freq=M)",451.3683160766959
